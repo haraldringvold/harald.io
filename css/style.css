@@ -465,7 +465,7 @@ nav
   position: relative;
 }
 
-.page1 h1
+.page1 h1, .page1 h1 span
 {
   color: #FFF;
 }
