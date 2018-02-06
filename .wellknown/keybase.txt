@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/ringvold
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://harald.io
+  * I am ringvold (https://keybase.io/ringvold) on keybase.
+  * I have a public key with fingerprint 1879 3E7A 76A5 FC3F 026A  F320 5365 8DA1 8387 0C9C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206bef231167bbc30cec42d03f0c8293cc2621afa3c1eaa1440508b0cdd0d11ab40a",
+      "fingerprint": "18793e7a76a5fc3f026af32053658da183870c9c",
+      "host": "keybase.io",
+      "key_id": "53658da183870c9c",
+      "kid": "0101cc5c7d0020322e49abb7240576239490f701fab6a25432304a7f5e6ab6ae4a730a",
+      "uid": "f5386cde98f25b3ddee40cb64e2f7019",
+      "username": "ringvold"
+    },
+    "merkle_root": {
+      "ctime": 1517878011,
+      "hash_meta": "875232fb510433b798b95010b3f0971001a6688ad0ac1050e11e1242615d7791",
+      "seqno": 2038523
+    },
+    "revoke": {
+      "sig_ids": [
+        "ff484ceda104e155821483e023e77fb59685615189cc5563d2ee09861dbdeff40f"
+      ]
+    },
+    "service": {
+      "hostname": "harald.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517878060,
+  "expire_in": 157680000,
+  "prev": "0a253af4f2353037d8256463458d6398e281416e0d06e4861a7ae7020f1f15d1",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMP4AnicbVNrbBRVGF1eBauFGghEiQ/GNqAWvK+ZubMEJGCRFgNJS6GlNMudmTvt
+sNud7ex2F6gNj4qAC0TRlnewmkqBgggJhAQjRQWhYimCAooaBQUCFMsjvPVOhcQY
+58/MfDnf+c45371fpHXzpXbJ50vraxY+trZLy75opW/qzDtZVZLumLMkf5UU5J0v
+HjJ5NBYI2qbklwBEQNG5hTCEiqrrBgYGNwgyAbaAQZGGDQMpCDKLYQNyxiAhQAZU
+B4ZpAhNCphPApCzJssOl3I24djgmaCFVNcxVpipMtgxBhRRmYQRkrMjUZJBiqgJD
+M0RjmRP1OoQ4nUX5MNsRNfET6JT3P/iHugE0DNlQTQAQwAhxojFdV5FQpyoIa0QD
+lgqgxXSFIZlghAFhqiVzxatw8Y07dVd20lkypophco1aSNaxaXJOgKErhCOPRfOA
+Ue6GWTkXaGGyNO6ETKk6SyrnbjDEA67jxLxwjZjtQaAMVapSAKEwyKJlgXIeY6KT
+qjLCyNJlCAjGuqpRXZOFF11EpKkQAMgUhVJmAmZAkTOHkENEkAJlU1U1KHREeUXY
+kfzCNBVcQoHL406Qe8OjdqmILSr5iyXLIpQYXEQHCIeyTBEkFHOAxFZUMV9TqCxI
+IdVEirKCTcQ50KgCTd3kohlYUkm1N8yN20YnubenB/7LmMtC5j+rirhOzDGckFeO
+xSJRvxdKbFbEwyW4HnjAENDtsCliEx1x7kZtJyxCEsj/5KWALInPjNguD9geQuyS
+AvF4c3jc27tYJmYWEQdWxgCrJkWyQhRMxDFRsEY5opBAhQMTKJwIP0xlXBVHxIKW
+yPDfAcpCJysVnCK2MItVulyq3tc8rbuvS6ovpUdX7+74Uh9Jf3ijzhen+xomn7qV
+c+JpUpYrtTfl5wTdue9MuP/6xP5v9tr8dvrldpvF353B6k9dqFhad3PgqIvPN/es
+rctfvTdcfD6jsq25rWT6toWZ66YfHFBgTUpd8/7tph/Kly9pX9aSlvF1egT2Xb1z
+yHOj8uC83ZcWH7g45rNT5ONX2y5N8PdE+3s/pTW4hy/He781rmVuZLTacXrTisYX
+Y/GaXzffmN+/rf1A/IVDLQdrB028Fsxdvz80Ob7ufmv1H43ylzOWHu16MXjg59rC
+Sa0fZB7afHzEpm+GDcr+a/LGKSeDGWe+r1uUXHPuSNr6G9kZye3RhlWumdvUffhs
+2vf8zrnnVqy6UjRyzvbTd+uH7+gxbk6f7XTJhF6NOS81j9/6408NdvjZHX/ucTKO
+99xyovJu18TQfhXfvtxtfeLWmURNXeGnt9ZNwkc7nGTz6mmJ4serbocz52TveW3L
+qDtjMmL33piq7iq5Hj1UVLK1aPknvxzcJPerqOpj9sisGqznVJx85bfKwtQn2vSU
+eQU2W7miYP4VtNce6r++vM+R+kUD0npv+b2m9kLr+ILkRvPwzQXHBj658qvdy6yr
+V/cuTikaMr/4Xurd/JHlBQuKgmdIR64vvjZl9IdnU5qyj9UsyMtrC83rl0nWzm7a
+QMKJo2fTRiQi25iaXPhMccfYwUlp146WVXveayyctWFKq/9a8rvPe13YVfvRpdZH
+j2jL8sb+Db9g/vQ=
+=Zgv/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ringvold
+
+==================================================================
